@@ -1,6 +1,6 @@
 <h1>Translating Numbers to Words</h1> 
 <p>Written by Katharine Chen and Justin Speers</p>
-<p><a href="http://www.epicodus.com/">Epicodus</a></p> (Week#1 Day#5)
+<p><a href="http://www.epicodus.com/">Epicodus</a> (Week#1 Day#5)</p>
 
 <p>The goal of the project is to create a program that translates numbers in numeric form into written words. For example, it would translate 384 into "three hundred eighty four".</p> 
 
