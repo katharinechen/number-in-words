@@ -1,13 +1,29 @@
-<h1>Translating Numbers to Words</h1> 
-<p>Written by Katharine Chen and Justin Speers</p>
-<p><a href="http://www.epicodus.com/">Epicodus</a> (Week#1 Day#5)</p>
+#Translating Numbers to Words 
 
-<p>The goal of the project is to create a program that translates numbers in numeric form into written words. For example, it would translate 384 into "three hundred eighty four".</p> 
+##About 
+This project was completed by Katharine Chen and [Justin Speers](https://github.com/jaspeers) on Week#1, Day#5 of [Epicodus Code School](http://www.epicodus.com/). 
 
-<p>Object will be very useful for this problem. Note, though, that you can't use the dot notation when a property's name is a number. To use a number as a key, you need to use the less-used square bracket syntax for retrieving and setting values:<p>
+##Description
+The goal of the project is to create a program written in JavaScript that translates numbers in numeric form into written words. For example, it would translate 384 into "three hundred eighty four". 
 
-<p>var numbers = {1: "one"};</p>
-<p>numbers[1] // returns "one"</p>
-<p>numbers[2] = "two";</p>
+##Functionality
 
-<p>Start small, and then get your code working for numbers up to 1 trillion.</p>
+'''javascript 
+numWord(1) //return "one"
+numWord(3172062) // return "three million one hundred seventy two thousand sixty two" 
+'''
+
+##Installation 
+Clone this repository in your terminal.
+
+    git clone https://github.com/katharinechen/number-in-words.git
+
+Open scripts.js in your browser. 
+    
+    scripts.js
+
+##License 
+MIT 
+
+
+

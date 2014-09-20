@@ -2,7 +2,6 @@ describe("numWord", function() {
   it("returns zero for 0", function(){
     numWord(0).should.equal("zero");
   });
-
   it("returns thirteen for 13", function(){
     numWord(13).should.equal("thirteen");
   });
