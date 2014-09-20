@@ -8,10 +8,10 @@ The goal of the project is to create a program written in JavaScript that transl
 
 ##Functionality
 
-'''javascript 
-numWord(1) //return "one"
-numWord(3172062) // return "three million one hundred seventy two thousand sixty two" 
-'''
+```javascript
+numWord(1); //return "one"
+numWord(3172062); // return "three million one hundred seventy two thousand sixty two" 
+```
 
 ##Installation 
 Clone this repository in your terminal.
